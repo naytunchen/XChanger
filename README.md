@@ -6,7 +6,9 @@ their currency exchange rate information to the users.
 
 
 NOTE: 
-This is an app I'm working with my other senior software engineer friends for Asia market.
+This is a project that I'm working with my two other senior software engineer friends for Asia market.
+I am in charge of developing an android version of this project and they are in charge of
+web application and Web API.
 Unfortunately, I am only allowed to showcase the APK but not the source code on Github.
 
 This application is still under development therefore it may have some bugs in it. 
